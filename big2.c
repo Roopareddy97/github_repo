@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main ()
+biggest2()
 {
 	  int num1, num2;
 	    num1=12,num2=13;
@@ -12,5 +12,5 @@ int main ()
 		  else
 			      printf("%d is greater", num2);
 
-		    return 0;
+//		    return 0;
 }
