@@ -1,6 +1,5 @@
-This is to test
-To test webhook
-This is to test first ci/cd pipeline
-*******************
-Testing CI/CD
+Testing Jenkins CI/CD
+Build - Job run on slave 1
+Deploy - Job run on slave 2
+Testing
 
