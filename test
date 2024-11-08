@@ -1,5 +1,5 @@
 Testing Jenkins CI/CD
 Build - Job run on slave 1
 Deploy - Job run on slave 2
-Testing
+Testing - Job trigger on successful Deploy job is successful
 
