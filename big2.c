@@ -10,7 +10,7 @@ biggest2()
 	        else if (num1 > num2) 
 			    printf("%d is greater", num1);
 		  else
-			      printf("%d is greater", num2);
+			      printf("%d is greater\n", num2);
 
 //		    return 0;
 }
