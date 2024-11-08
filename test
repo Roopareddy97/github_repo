@@ -1,5 +1,5 @@
 Testing Jenkins CI/CD in 3 stages
-Build :- Job run on slave 1
-Deploy :- Job run on slave 2
-Testing :- Job trigger on successful Deploy job is successful
+Build job:- Job run on slave 1
+Deploy job :- Job run on slave 2
+Testing job :- Job trigger on successful Deploy job is successful
 
