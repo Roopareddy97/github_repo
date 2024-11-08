@@ -1,6 +1,5 @@
-This is to test
-************************
-To test webhook
-******************
-Edit in the Github--- check updates in local after pull
-final test after troubleshoot******
+Testing Jenkins CI/CD in 3 stages
+Build :- Job run on slave 1
+Deploy :- Job run on slave 2
+Testing :- Job trigger on successful Deploy job is successful
+
